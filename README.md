@@ -1,11 +1,13 @@
 **The Deck Of Rooms GDD**
 
+The Deck Of Rooms GDD
+“Remember, choose your decks carefully. Every deck can change your fate. In more ways than one.”	– Bob (Tutorial Guy) – end of the tutorial
+
 The Deck Of Rooms is a top down 2d rouge-like deck “builder” game where you navigate rooms and floors to get to the top of the spire. Every floor you get to allows you to choose to ether get a new deck from three random options or use the one you already have. If you choose to get a new deck, you choose tone of the three randomly selected decks, each with different ability’s to use. Every room, you draw a card, and you can then use the ability n that card once, then its “discarded” and you cant use it again unless you use a card that allows you to pick from one of your most recent discarded cards to replace it with. Note that whatever deck you choose can change your fate. Every session is a new run, making it simple to hop in and start fresh! Note you wont fully start fresh, as we will save EXP, level, achievements, total cards collected, total floors traversed, and other stuff in local storage.
-
-**Cards and Decks**
-
+Cards and Decks
 Cards and decks are the core aspect of the game. Different cards have different ability’s, with different cool downs and quirks. Some cards have advantages, some have disadvantages, and some have both. That’s a quirk. For example, the adrenaline gives you more speed, but slows you down after you use it. Decks are used to pick what cards you get. On the pick screen, you can see the first three cards icons in the middle of the deck, and the deck name at the top. For example, The Speed Deck can have the adrenaline and sprint cards, but deep in the deck, there could be a siren card or an error card. This adds a Risk and Reward balance so every run can feel fresh.
-
-**Currency**
-
+Currency
 In The Deck Of Rooms, there are two main currency’s: Scraps, and Credits. You get Scraps by surviving rooms, searching drawers / crates, and more. Scraps can be used in the Elevator Mid-Run Shop (located in the elevator) and you can by items for your run there. Scraps are a temporary currency and are gone once you die or complete a run. Credits are what you get when you complete a run, you get Credits depending on this equation: “rooms survived + (scraps / 2)” . This makes it fair, not too OP, and an easy way to get Credits after a run. Credits are used for the Pre-Run Shop in the Van, which allows you to buy Item Starter Kits, which is you get items right off the bat to use during your run instead of searching for minutes, and where choose your starter deck, which will be the deck you start with for the first floor. The starter deck is FREE, unless you buy card packs, which are cards you get to put in your inventory to use in missions (which are small mini “runs” you can unlock after beating the spire and opened at least 2 packs where you get 5 random cards from your inventory and you choose 3 of them and play small challenges for EXP and Credits, like survive 3 of this entity or retrieve this thingy. These missions will change at least every day, but im not sure yet.)
+
+Death
+Every time you die, Bob debrifs you with data on what the monster is, some lore, and how to avoid it. There would also be some funny voice lines like “Maybe HIDE from the big scary monster than RUN. Hint. Hint.” or “Is there fall damage? Is there fire damage? Can I piss of Bob because im stupid? (whisper) the last question is what your doing. Please stop.”. Some even reveal lore like “Why are you becoming like them. Stop looking into this stuff. You will thank me later.”.
