@@ -1,6 +1,5 @@
 **The Deck Of Rooms GDD**
 
-The Deck Of Rooms GDD
 “Remember, choose your decks carefully. Every deck can change your fate. In more ways than one.”	– Bob (Tutorial Guy) – end of the tutorial
 
 The Deck Of Rooms is a top down 2d rouge-like deck “builder” game where you navigate rooms and floors to get to the top of the spire. Every floor you get to allows you to choose to ether get a new deck from three random options or use the one you already have. If you choose to get a new deck, you choose tone of the three randomly selected decks, each with different ability’s to use. Every room, you draw a card, and you can then use the ability n that card once, then its “discarded” and you cant use it again unless you use a card that allows you to pick from one of your most recent discarded cards to replace it with. Note that whatever deck you choose can change your fate. Every session is a new run, making it simple to hop in and start fresh! Note you wont fully start fresh, as we will save EXP, level, achievements, total cards collected, total floors traversed, and other stuff in local storage.
