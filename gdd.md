@@ -2,7 +2,7 @@
 
 *“Remember, choose your decks carefully. Every deck can change your fate. In more ways than one.”*	
 
-– Bob (Tutorial Guy) – end of the tutorial
+    – Bob (Tutorial Guy) – end of the tutorial
 
 ## Info
 
