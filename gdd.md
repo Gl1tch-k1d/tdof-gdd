@@ -19,3 +19,17 @@ In The Deck Of Rooms, there are two main currency’s: Scraps, and Credits. You 
 ## Death
 
 Every time you die, Bob debrifs you with data on what the monster is, some lore, and how to avoid it. There would also be some funny voice lines like “Maybe HIDE from the big scary monster than RUN. Hint. Hint.” or “Is there fall damage? Is there fire damage? Can I piss of Bob because im stupid? (whisper) the last question is what your doing. Please stop.”. Some even reveal lore like “Why are you becoming like them. Stop looking into this stuff. You will thank me later.”.
+
+## Types of shops
+
+*EXP (Or XP for short)* 
+
+EXP are your levels which you can exchange for upgrades to your charecter, like x2 Scraps, or more Speed.
+
+*Credits*
+
+You can use Credits to buy items in the Pre-Run shop. or to skip a mission.
+
+*Scraps*
+
+You can use Scraps in the Mid-Run shop. Simply, you can use Scraps to buy items mid-Run.
