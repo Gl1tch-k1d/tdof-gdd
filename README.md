@@ -8,7 +8,7 @@
 
 * Clocking_out.txt is the cannon ending for TDOR *
 
-# To sign up for Alpha testing:
+# To sign up for Alpha testing
 
 1. Put your Github username, email, what you want, and some messages to me in the Github issue template 'comments' in the Issues area of this repo.
 
