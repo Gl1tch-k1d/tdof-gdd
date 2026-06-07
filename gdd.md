@@ -17,7 +17,7 @@ In The Deck Of Rooms, there are two main currency’s: Scraps, and Credits. You 
 
 ## Death
 
-Every time you die, Bob debrifs you with data on what the monster is, some lore, and how to avoid it. There would also be some funny voice lines like “Maybe HIDE from the big scary monster than RUN. Hint. Hint.” or “Is there fall damage? Is there fire damage? Can I piss of Bob because im stupid? (whisper) the last question is what your doing. Please stop.”. Some even reveal lore like “Why are you becoming like them. Stop looking into this stuff. You will thank me later.”.
+Every time you die, Bob debrifs you with data on what the monster is, some lore, and how to avoid it. There would also be some funny voice lines like “Maybe HIDE from the big scary monster than RUN. Hint. Hint.” or “Is there fall damage? Is there fire damage? Can I piss of Bob because im stupid? (whisper) the last question is what your doing. Please stop.” or even "Dont worry! You will survive this! Eventually . . ." . Some even reveal lore like “Why are you becoming like them. Stop looking into this stuff. You will thank me later.”.
 
 ## Types of shops
 
