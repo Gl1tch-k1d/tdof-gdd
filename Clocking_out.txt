@@ -1,3 +1,4 @@
+(Start)
 (You get in a helecopter on the roof and set off, not looking back.)
 (A hologram of Bob appeared.)  Well, goodbye. Hope you know what your getting into.  Bob turns arund and walks away
 (Screen goes black)
@@ -23,8 +24,8 @@ Bob: Ill see you in hell.
 (Bob is holding a walkie talkie, staring at security monitors.)
 Walkie: They WHAT?
 Bob: They jumped into a casem or pit tha-
-Walkie: That may have been connected to The Resistance's web.
-Bob: I dought he would get that far. There as dumb as a- uh- something thats realy dumb.
+Walkie: That may have been connected to The Resistance's Web.
+Bob: I dought they would get that far. There as dumb as a- uh- something thats realy dumb.
 Walkie: IF BOSS FINDS OUT WE HAD A BREACH-
 Bob: He WONT find out. My team is on it. Get back to dealing with the extractioners, and Ill deal with this one.
 Walkie: Ok. Im trusing you on this. All of us at Co Inc. are.
@@ -33,3 +34,4 @@ Bob: Me too. Me too. . .
 (Camera's shut off, all screens have now is static and text that says no signal. No static sound.))
 (Bob walks away.)
 (Fades to black.)
+(End)
