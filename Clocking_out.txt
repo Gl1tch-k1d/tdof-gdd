@@ -1,5 +1,5 @@
-(Start)
-(You get in a helecopter on the roof and set off, not looking back.)
+(Start cutseen)
+(Player gets in a helecopter on the roof and sets off, not looking back.)
 (A hologram of Bob appeared.)  Well, goodbye. Hope you know what your getting into.  Bob turns arund and walks away
 (Screen goes black)
 Screen comes back to show Bob back on hologram.  Why, Clone? Why must you be so hard to deal with? 
@@ -34,4 +34,4 @@ Bob: Me too. Me too. . .
 (Camera's shut off, all screens have now is static and text that says no signal. No static sound.))
 (Bob walks away.)
 (Fades to black.)
-(End)
+(End cutseem)
